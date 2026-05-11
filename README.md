@@ -30,4 +30,4 @@ This project aims to analyze the operational and financial performance of a pizz
 - **Power BI Skills:** Data modeling, DAX measures for dynamic KPIs, and advanced visual formatting (Donut charts, Stacked Bar charts).
 
 ## Project Resources
-- **All files and Data:** [Pizza_Sales_Report](https://drive.google.com/drive/folders/13RBrk2o6bp-fWsI6Rg_6F1xvayTVPnvy?usp=sharing)
+- **All files and Data also avaible here:** [Pizza_Sales_Report](https://drive.google.com/drive/folders/13RBrk2o6bp-fWsI6Rg_6F1xvayTVPnvy?usp=sharing)
